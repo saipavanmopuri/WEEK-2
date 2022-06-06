@@ -1,0 +1,22 @@
+class Song{
+    Song Title: string;
+    Song singer:string;
+    Album name: string
+    constructor( name:string, roll_no: number) {
+        this.Title = string;
+        this.singer = string;
+        this.Album name = string;
+    }
+
+    gettitle(): string{
+        return this.title;
+    }
+
+    getsinger() : string {
+        return this.singer;
+    }
+
+    getAlbumname() : string {
+        return this.albumname;
+    }
+}
